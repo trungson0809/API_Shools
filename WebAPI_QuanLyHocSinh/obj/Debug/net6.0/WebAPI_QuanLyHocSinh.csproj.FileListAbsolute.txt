@@ -1,0 +1,247 @@
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\appsettings.Development.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\appsettings.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.exe
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.deps.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.runtimeconfig.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.pdb
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\AutoMapper.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Humanizer.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.AssemblyReference.cache
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.AssemblyInfoInputs.cache
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.AssemblyInfo.cs
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cs
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_QuanLyHocSinh.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_QuanLyHocSinh.props
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_QuanLyHocSinh.props
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_QuanLyHocSinh.props
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\scopedcss\bundle\WebAPI_QuanLyHocSinh.styles.css
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.CopyComplete
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\refint\WebAPI_QuanLyHocSinh.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.pdb
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.genruntimeconfig.cache
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\ref\WebAPI_QuanLyHocSinh.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\DinkToPdf.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\PdfSharpCore.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+D:\IT\asp.net6.0\WebAPI_QuanLyHocSinh\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\assets\style.css
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\appsettings.Development.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\appsettings.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.exe
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\assets\style.css
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.deps.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.runtimeconfig.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.pdb
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\AutoMapper.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\DinkToPdf.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Humanizer.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\PdfSharpCore.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.AssemblyReference.cache
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.AssemblyInfoInputs.cache
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.AssemblyInfo.cs
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cs
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cache
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_QuanLyHocSinh.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_QuanLyHocSinh.props
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_QuanLyHocSinh.props
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_QuanLyHocSinh.props
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.build.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.development.json
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\scopedcss\bundle\WebAPI_QuanLyHocSinh.styles.css
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.CopyComplete
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\refint\WebAPI_QuanLyHocSinh.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.pdb
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.genruntimeconfig.cache
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\ref\WebAPI_QuanLyHocSinh.dll
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.RazorAssemblyInfo.cache
+D:\SSC\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.exe
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\assets\style.css
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.deps.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.runtimeconfig.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\WebAPI_QuanLyHocSinh.pdb
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\DinkToPdf.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\PdfSharpCore.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.AssemblyInfo.cs
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_QuanLyHocSinh.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_QuanLyHocSinh.props
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_QuanLyHocSinh.props
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_QuanLyHocSinh.props
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\scopedcss\bundle\WebAPI_QuanLyHocSinh.styles.css
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.csproj.CopyComplete
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\refint\WebAPI_QuanLyHocSinh.dll
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.pdb
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\WebAPI_QuanLyHocSinh.genruntimeconfig.cache
+C:\Users\HP\OneDrive - University of Economics and Finance - UEF\Desktop\TEST1\API_Shools\WebAPI_QuanLyHocSinh\obj\Debug\net6.0\ref\WebAPI_QuanLyHocSinh.dll
